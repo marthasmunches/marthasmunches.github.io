@@ -2,7 +2,7 @@ title: Martha's Munches
 description: Martha's Munches - a blog about awesome food and
 
 url: http://martha.ellis.scot/
-baseurl: ""
+baseurl: "http://martha.ellis.scot"
 paginate_path: "blog/page:num/"
 permalink: blog/:title/
 
@@ -21,6 +21,6 @@ social:
    github:
    twitter:
    facebook:
-   email: 
+   email:
 
 google_analytics: "UA-1089638-18"
