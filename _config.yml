@@ -1,0 +1,18 @@
+title: Martha's Munches
+description: Martha's Munches - a blog about awesome food and 
+
+url: http://martha.ellis.scot/
+baseurl: ""
+paginate_path: "blog/page:num/"
+permalink: blog/:title/
+
+markdown: kramdown
+highlighter: rouge
+gems: [jekyll-paginate]
+paginate: 5
+
+navigation:
+ - title: Home
+   url: /index.html
+ - title: About
+   url: /about
