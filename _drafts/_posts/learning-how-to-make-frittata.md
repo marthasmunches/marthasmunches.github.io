@@ -1,6 +1,6 @@
 ---
 date: 2017-10-01 00:00:00 +0000
-title: Frittata
+title: Learning how to make Frittata
 ---
 
 
