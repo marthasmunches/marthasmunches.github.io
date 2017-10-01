@@ -23,3 +23,5 @@ Bits I have to improve are cracking eggs.
 Flavours that I want to try next time are one sweet and one savoury.
 
 The savoury one first is chicken, tomato and pasta. The sweet one is pain au chocolate and mango.
+
+I typed up to the end of the recipe and then my mum typed the last three links whilst I said the words.
