@@ -1,0 +1,26 @@
+---
+pages:
+- _posts/learning-how-to-make-frittata.md
+- _posts/2017-08-09-review-my-martha-s.md
+- _posts/2017-08-09-recipe-banana-muffins.md
+- _posts/2017-08-06-recipe-dairy-free-apple-frangipane-tart.md
+- _posts/2017-08-05-hello-everyone.md
+- _posts/2017-08-05-i-made-a-poorly-unicorn-video.md
+- _posts/2017-08-05-review-akva-edinburgh.md
+- _posts/2017-08-05-recipe-dhal.md
+- _posts/2017-08-05-martha-s-top-10-festival-treats.md
+- _posts/2017-08-05-123-fudge.md
+- _posts/2017-08-05-piescream.md
+- _posts/2017-08-05-fruit-smoosh.md
+hide_body: false
+fields:
+- type: text
+  label: title
+  name: title
+- type: datetime
+  name: date
+  label: date
+  config:
+    date_format: DD/MM/YYYY
+    time_format: h:mm A
+  default: Invalid date
