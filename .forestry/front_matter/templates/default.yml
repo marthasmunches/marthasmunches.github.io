@@ -1,19 +1,7 @@
 ---
-pages:
-- _posts/2018-03-04-snow-entertainment.md
-- _posts/2018-03-04-french-horn-fun.md
-- _posts/2017-08-05-piescream.md
-- _posts/2017-08-05-123-fudge.md
-- _posts/2017-08-06-recipe-dairy-free-apple-frangipane-tart.md
-- _posts/2017-08-09-recipe-banana-muffins.md
-- _posts/2017-08-05-hello-everyone.md
-- _posts/2017-08-09-review-my-martha-s.md
-- _posts/2017-08-05-i-made-a-poorly-unicorn-video.md
-- _posts/2017-08-05-review-akva-edinburgh.md
-- _posts/2017-08-05-recipe-dhal.md
-- _posts/2017-08-05-martha-s-top-10-festival-treats.md
-- _posts/2017-08-05-fruit-smoosh.md
+label: default
 hide_body: false
+is_partial: false
 fields:
 - type: text
   label: title
@@ -25,3 +13,18 @@ fields:
     date_format: DD/MM/YYYY
     time_format: h:mm A
   default: Invalid date
+pages:
+- _posts/my-best-dairy-free-foods-in-krakow-and-zakopane.md
+- _posts/2017-08-05-review-akva-edinburgh.md
+- _posts/2017-08-09-review-my-martha-s.md
+- _posts/2017-08-05-fruit-smoosh.md
+- _posts/2017-08-05-recipe-dhal.md
+- _posts/2017-08-05-martha-s-top-10-festival-treats.md
+- _posts/2018-03-04-snow-entertainment.md
+- _posts/2018-03-04-french-horn-fun.md
+- _posts/2017-08-05-i-made-a-poorly-unicorn-video.md
+- _posts/2017-08-05-123-fudge.md
+- _posts/2017-08-05-piescream.md
+- _posts/2017-08-05-hello-everyone.md
+- _posts/2017-08-06-recipe-dairy-free-apple-frangipane-tart.md
+- _posts/2017-08-09-recipe-banana-muffins.md
