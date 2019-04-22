@@ -13,7 +13,7 @@ fields:
     time_format: h:mm A
   default: Invalid date
 pages:
-- _posts/my-best-dairy-free-foods-in-krakow-and-zakopane.md
+- _posts/2019-04-22-my-best-dairy-free-foods-in-krakow-and-zakopane.md
 - _posts/2017-08-05-fruit-smoosh.md
 - _posts/2017-08-09-review-my-martha-s.md
 - _posts/2017-08-05-review-akva-edinburgh.md
