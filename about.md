@@ -3,7 +3,44 @@ layout: default
 title: About Martha
 
 ---
-<div class="post">
-<h1 class="pageTitle">About Martha</h1>
-<img src="/uploads/2017/08/05/animated-powfactor.gif"><p class="intro">Martha is AWESOME!</p><p class="intro">Name: MARTHA</p><p class="intro">Favourite animal: Sugar glider </p><p class="intro">Favourite foods: falafels, tunabeef pasta, chicken fajitas, fajitas, toasted marshmallows, dairy-free cornetos</p><p class="intro">Favourite drink: rose lemonade and ice-cream floats</p><p class="intro">Best talents: gymnastics, hip-hop dancing and singing</p><p class="intro">Favourite song: Clean Bandit feat. Zara Larsson - Symphony </p><p class="intro">Favourite gymnastics move: roundoff</p><p class="intro">School: Trinity</p><p class="intro">Favourite toy: Kiki the cat</p><p class="intro">Favourite bike trip: Cramond</p><p class="intro">Favourite holiday destination: Legoland</p><p class="intro">Favourite emoji: </p><img src="/uploads/2017/08/05/koala.png"><p class="intro"><br></p><img src="/uploads/2017/08/05/animated-powfactor%20(1).gif"><p class="intro"><br></p><p class="intro"><a href="https://powerpuffyourself.com/">You can Powderpuff yourself here</a>!</p>
-</div>
+![](/uploads/2022/12/27/wallpaper-powfactor-1.jpg)
+
+Martha is AWESOME!
+
+Name: MARTHA
+
+Favourite animal: armidillos
+
+Favourite foods: falafels, tunabeef pasta, sushi,bao_buns, fajitas, toasted marshmallows, and dairy-free cornetos
+
+Favourite drink: elderflower cordial and tonic water
+
+Best talents: aerial French horn triathalons and singing
+
+Favourite song: Fool by Frankie Cosmos
+
+Favourite aerial apparatus: Hoop
+
+School: Trinity Acadamy
+
+Favourite book: the secret 
+
+Favourite bike trip: Cramond
+
+Favourite holiday destination: Legoland or achnasheen
+
+Favourite emoji: ![](/uploads/2022/12/27/screenshot-2022-12-27-10-29-01-am.png)
+
+  \[You can Powerpuff yourself here\]([https://powerpuffyourself.com/](https://powerpuffyourself.com/ "https://powerpuffyourself.com/"))!r
+
+![](/uploads/2022/12/27/wallpaper-powfactor-1.jpg)  
+
+realistic 
+
+or 
+
+crazy
+
+![](/uploads/2022/12/27/wallpaper-powfactor-2.jpg)
+
+   
